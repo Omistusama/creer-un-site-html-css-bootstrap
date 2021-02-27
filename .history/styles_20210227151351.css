@@ -1,0 +1,5 @@
+body{
+    margin: 0px auto;
+    padding:16px auto;
+    max-width:1168px; /*1200 - 16*2 */
+  }
