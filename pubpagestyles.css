@@ -1,0 +1,19 @@
+body{
+    margin: 0px ;
+    padding:16px auto;
+    max-width:1368px; /*1200 - 16*2 */
+  }
+
+  .row-striped:nth-of-type(odd){
+    background-color: #8b8b8b;
+    border-left: 4px #000000 solid;
+  }
+  
+  .row-striped:nth-of-type(even){
+    background-color: #b1adad;
+    border-left: 4px #efefef solid;
+  }
+  
+  .row-striped {
+      padding: 15px 0;
+  }
